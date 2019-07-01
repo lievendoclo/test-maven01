@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>test-maven01</name>
-	<description>test-maven01</description>
+	<description>test-maven01 </description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
